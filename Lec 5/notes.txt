@@ -1,0 +1,5 @@
+check last bit of any integer
+ n&1 this will give last bit if it is 1;
+ hw - sqrt(n)
+ pow(a,b)
+ binary to decimal and decimal to binary
